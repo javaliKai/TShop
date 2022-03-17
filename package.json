@@ -1,0 +1,26 @@
+{
+  "name": "tshop",
+  "version": "1.0.0",
+  "description": "an e-commerce web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaliKai/TShop.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "MERN"
+  ],
+  "author": "javaliKai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaliKai/TShop/issues"
+  },
+  "homepage": "https://github.com/javaliKai/TShop#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
